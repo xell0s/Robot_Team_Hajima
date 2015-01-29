@@ -1,4 +1,4 @@
-#pragma config(Motor,  port2,           frontLefttMotor, tmotorServoContinuousRotation, openLoop, reversed)
+#pragma config(Motor,  port2,           frontLeftMotor, tmotorServoContinuousRotation, openLoop, reversed)
 #pragma config(Motor,  port3,           frontRightMotor, tmotorServoContinuousRotation, openLoop, reversed)
 #pragma config(Motor,  port4,           backLeftMotor, tmotorServoContinuousRotation, openLoop)
 #pragma config(Motor,  port5,           backRightMotor, tmotorServoContinuousRotation, openLoop)
